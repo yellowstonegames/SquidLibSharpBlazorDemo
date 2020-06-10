@@ -1,1 +1,1 @@
-https://squidpony.github.io/SquidLibSharpBlazorDemo/
+https://yellowstonegames.github.io/SquidLibSharpBlazorDemo/
